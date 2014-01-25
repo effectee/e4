@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="appconsole-ps:war">
+    <output-path>$PROJECT_DIR$/e4-appconsole/appconsole-ps/target</output-path>
+    <root id="archive" name="appconsole-ps.war">
+      <element id="artifact" artifact-name="appconsole-ps:war exploded" />
+    </root>
+  </artifact>
+</component>

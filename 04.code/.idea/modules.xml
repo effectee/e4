@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e4-appconsole/appconsole-ps/appconsole-ps.iml" filepath="$PROJECT_DIR$/e4-appconsole/appconsole-ps/appconsole-ps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4.iml" filepath="$PROJECT_DIR$/e4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-appconsole/e4-appconsole.iml" filepath="$PROJECT_DIR$/e4-appconsole/e4-appconsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-fw/e4-fw.iml" filepath="$PROJECT_DIR$/e4-fw/e4-fw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-ip/e4-ip.iml" filepath="$PROJECT_DIR$/e4-ip/e4-ip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-fw/fw-core/fw-core.iml" filepath="$PROJECT_DIR$/e4-fw/fw-core/fw-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-fw/fw-da/fw-da.iml" filepath="$PROJECT_DIR$/e4-fw/fw-da/fw-da.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-fw/fw-web/fw-web.iml" filepath="$PROJECT_DIR$/e4-fw/fw-web/fw-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-ip/ip-ps/ip-ps.iml" filepath="$PROJECT_DIR$/e4-ip/ip-ps/ip-ps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-ip/ip-ps-rest/ip-ps-rest.iml" filepath="$PROJECT_DIR$/e4-ip/ip-ps-rest/ip-ps-rest.iml" />
+    </modules>
+  </component>
+</project>
+

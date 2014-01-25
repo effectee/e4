@@ -1,0 +1,41 @@
+fw项目
+1. fw根项目
+mvn archetype:create -DgroupId=com.git.effectee -DartifactId=e4-fw
+修改e4-fw\pom.xml文件：
+<packaging>jar</packaging>
+--->
+<packaging>pom</packaging>
+
+2. fw-core项目
+mvn archetype:create -DgroupId=com.git.effectee -DartifactId=fw-core
+
+
+3. fw-da项目
+mvn archetype:create -DgroupId=com.git.effectee -DartifactId=fw-da
+
+4. fw-web项目
+mvn archetype:create -DgroupId=com.git.effectee -DartifactId=fw-web
+
+
+ip项目
+ps
+mvn archetype:create -DgroupId=com.git.effectee -DartifactId=ip-ps
+
+ps-rest
+mvn archetype:create -DgroupId=com.git.effectee -DartifactId=ip-ps-rest
+
+
+
+
+
+
+
+
+appconsole项目
+
+
+
+
+
+
+demo项目
