@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d029163-813c-4c1a-9434-3ecd9ec17dec" name="Default" comment="" />
+    <list default="true" id="9d029163-813c-4c1a-9434-3ecd9ec17dec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/e4-ip/ip-gv-rest/src/main/java/com/git/effectee/ip/gv/rest/ParamRestController.java" afterPath="$PROJECT_DIR$/e4-ip/ip-gv-rest/src/main/java/com/git/effectee/ip/gv/rest/ParamRestController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="e4.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,7 +137,7 @@
       <file leaf-file-name="ParamRestController.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/e4-ip/ip-gv-rest/src/main/java/com/git/effectee/ip/gv/rest/ParamRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="235" selection-end="235" vertical-scroll-proportion="0.31034482" vertical-offset="0" max-vertical-offset="551">
+            <state line="9" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.3114754" vertical-offset="0" max-vertical-offset="549">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -225,7 +229,7 @@
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -892,7 +896,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="10" y="0" width="1346" height="728" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -911,7 +915,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28804347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28804347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1285,7 +1289,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/e4-ip/ip-gv-rest/src/main/java/com/git/effectee/ip/gv/rest/ParamRestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="235" selection-end="235" vertical-scroll-proportion="0.31034482" vertical-offset="0" max-vertical-offset="551">
+        <state line="9" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.3114754" vertical-offset="0" max-vertical-offset="549">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
