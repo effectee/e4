@@ -1,41 +1,43 @@
-fwÏîÄ¿
-1. fw¸ùÏîÄ¿
+fwé¡¹ç›®
+1. fwæ ¹é¡¹ç›®
 mvn archetype:create -DgroupId=com.git.effectee -DartifactId=e4-fw
-ĞŞ¸Äe4-fw\pom.xmlÎÄ¼ş£º
+ä¿®æ”¹e4-fw\pom.xmlæ–‡ä»¶ï¼š
 <packaging>jar</packaging>
 --->
 <packaging>pom</packaging>
 
-2. fw-coreÏîÄ¿
+2. fw-coreé¡¹ç›®
 mvn archetype:create -DgroupId=com.git.effectee -DartifactId=fw-core
 
 
-3. fw-daÏîÄ¿
+3. fw-daé¡¹ç›®
 mvn archetype:create -DgroupId=com.git.effectee -DartifactId=fw-da
 
-4. fw-webÏîÄ¿
+4. fw-webé¡¹ç›®
 mvn archetype:create -DgroupId=com.git.effectee -DartifactId=fw-web
 
 
-ipÏîÄ¿
+ipé¡¹ç›®
 ps
 mvn archetype:create -DgroupId=com.git.effectee -DartifactId=ip-ps
 
 ps-rest
 mvn archetype:create -DgroupId=com.git.effectee -DartifactId=ip-ps-rest
 
+gv
+mvn archetype:create -DgroupId=com.git.effectee -DartifactId=ip-gv
+
+gv-rest
+mvn archetype:create -DgroupId=com.git.effectee -DartifactId=ip-gv-rest
+
+
+
+
+appconsoleé¡¹ç›®
 
 
 
 
 
 
-
-appconsoleÏîÄ¿
-
-
-
-
-
-
-demoÏîÄ¿
+demoé¡¹ç›®

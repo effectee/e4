@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/e4-fw/fw-core/fw-core.iml" filepath="$PROJECT_DIR$/e4-fw/fw-core/fw-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/e4-fw/fw-da/fw-da.iml" filepath="$PROJECT_DIR$/e4-fw/fw-da/fw-da.iml" />
       <module fileurl="file://$PROJECT_DIR$/e4-fw/fw-web/fw-web.iml" filepath="$PROJECT_DIR$/e4-fw/fw-web/fw-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-ip/ip-gv/ip-gv.iml" filepath="$PROJECT_DIR$/e4-ip/ip-gv/ip-gv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e4-ip/ip-gv-rest/ip-gv-rest.iml" filepath="$PROJECT_DIR$/e4-ip/ip-gv-rest/ip-gv-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/e4-ip/ip-ps/ip-ps.iml" filepath="$PROJECT_DIR$/e4-ip/ip-ps/ip-ps.iml" />
       <module fileurl="file://$PROJECT_DIR$/e4-ip/ip-ps-rest/ip-ps-rest.iml" filepath="$PROJECT_DIR$/e4-ip/ip-ps-rest/ip-ps-rest.iml" />
     </modules>

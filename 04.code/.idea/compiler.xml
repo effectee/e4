@@ -26,6 +26,8 @@
         <module name="fw-core" />
         <module name="fw-da" />
         <module name="fw-web" />
+        <module name="ip-gv" />
+        <module name="ip-gv-rest" />
         <module name="ip-ps" />
         <module name="ip-ps-rest" />
       </profile>
@@ -39,6 +41,8 @@
       <module name="fw-core" target="1.6" />
       <module name="fw-da" target="1.6" />
       <module name="fw-web" target="1.6" />
+      <module name="ip-gv" target="1.6" />
+      <module name="ip-gv-rest" target="1.6" />
       <module name="ip-ps" target="1.6" />
       <module name="ip-ps-rest" target="1.6" />
     </bytecodeTargetLevel>
