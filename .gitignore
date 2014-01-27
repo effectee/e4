@@ -25,6 +25,12 @@ local.properties
 
 *.class
 
+#################
+## IDEA
+#################
+.idea/
+
+
 # Package Files #
 *.jar
 *.war
