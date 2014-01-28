@@ -3,6 +3,7 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/e4-appconsole" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e4-appconsole/appconsole-gv-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/e4-appconsole/appconsole-ps" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/e4-fw" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/e4-fw/fw-core" charset="UTF-8" />

@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="appconsole-gv-web" />
         <module name="appconsole-ps" />
         <module name="fw-core" />
         <module name="fw-da" />
@@ -33,6 +34,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="appconsole-gv-web" target="1.6" />
       <module name="appconsole-ps" target="1.6" />
       <module name="e4" target="1.6" />
       <module name="e4-appconsole" target="1.6" />

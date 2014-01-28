@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/e4-appconsole/appconsole-gv-web/appconsole-gv-web.iml" filepath="$PROJECT_DIR$/e4-appconsole/appconsole-gv-web/appconsole-gv-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/e4-appconsole/appconsole-ps/appconsole-ps.iml" filepath="$PROJECT_DIR$/e4-appconsole/appconsole-ps/appconsole-ps.iml" />
       <module fileurl="file://$PROJECT_DIR$/e4.iml" filepath="$PROJECT_DIR$/e4.iml" />
       <module fileurl="file://$PROJECT_DIR$/e4-appconsole/e4-appconsole.iml" filepath="$PROJECT_DIR$/e4-appconsole/e4-appconsole.iml" />

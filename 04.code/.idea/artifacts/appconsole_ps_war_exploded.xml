@@ -53,11 +53,6 @@
           <element id="archive" name="fw-web-1.0-SNAPSHOT.jar">
             <element id="module-output" name="fw-web" />
           </element>
-          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
-          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
-          <element id="library" level="project" name="Maven: com.oracle:ojdbc6:11.1.0.7.0" />
-          <element id="library" level="project" name="Maven: org.activiti:activiti-spring:5.13" />
-          <element id="library" level="project" name="Maven: org.activiti:activiti-engine:5.13" />
         </element>
       </element>
     </root>
