@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="appconsole-gv-web:war">
-    <output-path>$PROJECT_DIR$/e4-appconsole/appconsole-gv-web/target</output-path>
-    <root id="archive" name="appconsole-gv-web.war">
-      <element id="artifact" artifact-name="appconsole-gv-web:war exploded" />
-    </root>
-  </artifact>
-</component>
