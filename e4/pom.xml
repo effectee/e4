@@ -11,6 +11,8 @@
 	<name>e4</name>
 	<url>http://maven.apache.org</url>
 	<properties>
+		<e4.version>1.0-SNAPSHOT</e4.version>
+		
 		<!-- 工程编码 -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- junit -->
