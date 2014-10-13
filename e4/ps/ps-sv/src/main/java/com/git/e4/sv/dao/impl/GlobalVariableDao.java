@@ -4,10 +4,12 @@ import java.util.List;
 
 import org.hibernate.criterion.DetachedCriteria;
 import org.hibernate.criterion.Restrictions;
+import org.springframework.stereotype.Repository;
 
 import com.git.e4.da.HibernateBaseDao;
 import com.git.e4.sv.entity.GlobalVariable;
 
+@Repository
 public class GlobalVariableDao extends HibernateBaseDao<GlobalVariable, String>{
 
 	/**

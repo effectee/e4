@@ -25,7 +25,7 @@ public class GlobalVariableService{
 		gvDao.deleteById(id);
 	}
 
-	public void modify(GlobalVariable gv) {
+	public void update(GlobalVariable gv) {
 		gvDao.update(gv);
 	}
 

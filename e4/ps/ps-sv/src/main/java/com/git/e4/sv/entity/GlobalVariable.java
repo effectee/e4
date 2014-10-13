@@ -2,12 +2,17 @@ package com.git.e4.sv.entity;
 
 import java.util.Date;
 
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
 /** 
  * 系统全局变量
  * 
  * @author hubin0011@gmail.com
  *
  */
+@Entity
+@Table(name="T_E4_SV_GLOABL_VARIABLE")
 public class GlobalVariable {
 	/** ID **/
 	public String id;
