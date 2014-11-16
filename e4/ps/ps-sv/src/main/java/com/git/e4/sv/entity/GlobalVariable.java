@@ -32,6 +32,9 @@ public class GlobalVariable {
 	/** 全局变量修改时间 **/
 	private Date updateTime;
 
+    /** 全局变量类型 **/
+    private EnumItem type;
+
 	/**
 	 * 取得ID
 	 * @return ID

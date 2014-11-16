@@ -31,6 +31,7 @@ public class EnumEntity {
 	
 	/** 修改时间 **/
 	private Date moidfyTime;
+
 	
 	/** 枚举字段列表**/
 	private List<EnumItem> items = new ArrayList<EnumItem>();
