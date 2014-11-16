@@ -11,8 +11,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
-    <orderEntry type="module" module-name="ps-common" />
-    <orderEntry type="module" module-name="pt-da" />
     <orderEntry type="module" module-name="pf-core" />
     <orderEntry type="module" module-name="pf-util" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:18.0" level="project" />

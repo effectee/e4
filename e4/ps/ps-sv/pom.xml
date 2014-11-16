@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <artifactId>ps</artifactId>
-    <groupId>com.git.e4</groupId>
+    <groupId>com.github.e4</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
   <artifactId>ps-sv</artifactId>
@@ -17,11 +17,20 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+
     <dependency>
-    	<groupId>com.git.e4</groupId>
-    	<artifactId>pt-da</artifactId>
-    	<version>1.0-SNAPSHOT</version>
+      <groupId>com.github.e4</groupId>
+      <artifactId>ps-common</artifactId>
+      <version>${e4.version}</version>
     </dependency>
+
+    <dependency>
+    	<groupId>com.github.e4</groupId>
+    	<artifactId>pt-da</artifactId>
+    	<version>${e4.version}</version>
+    </dependency>
+
+
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

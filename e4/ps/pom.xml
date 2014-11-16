@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <artifactId>e4</artifactId>
-    <groupId>com.git.e4</groupId>
+    <groupId>com.github.e4</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
   <artifactId>ps</artifactId>
@@ -12,12 +12,12 @@
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
-    	<groupId>com.git.e4</groupId>
+    	<groupId>com.github.e4</groupId>
     	<artifactId>pf-core</artifactId>
     	<version>${e4.version}</version>
     </dependency>
     <dependency>
-    	<groupId>com.git.e4</groupId>
+    	<groupId>com.github.e4</groupId>
     	<artifactId>pf-util</artifactId>
     	<version>${e4.version}</version>
     </dependency>
@@ -28,5 +28,6 @@
   <modules>
     <module>ps-sv</module>
     <module>ps-msg</module>
+    <module>ps-common</module>
   </modules>
 </project>
