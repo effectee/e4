@@ -16,6 +16,9 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- junit -->
 		<junit.version>4.11</junit.version>
+		<test4j.version>2.0.6</test4j.version>
+		<jmock.version>2.6.1</jmock.version>
+
 		<!-- guava -->
 		<guava.version>18.0</guava.version>
 		<!-- spring -->
@@ -62,6 +65,25 @@
 			<artifactId>junit</artifactId>
 			<version>${junit.version}</version>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.test4j</groupId>
+			<artifactId>test4j.junit</artifactId>
+			<version>${test4j.version}</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.test4j</groupId>
+			<artifactId>test4j.integrated</artifactId>
+			<version>${test4j.version}</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jmock</groupId>
+			<artifactId>jmock-junit4</artifactId>
+			<version>${jmock.version}</version>
 		</dependency>
 
 
