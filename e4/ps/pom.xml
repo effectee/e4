@@ -29,5 +29,6 @@
     <module>ps-sv</module>
     <module>ps-msg</module>
     <module>ps-common</module>
+    <module>ps-account</module>
   </modules>
 </project>
