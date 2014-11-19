@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<artifactId>console</artifactId>
+		<groupId>com.git.e4</groupId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<artifactId>console-web</artifactId>
+	<packaging>war</packaging>
+	<name>console-web Maven Webapp</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+
+		<!-- 工程编码 -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<!-- junit -->
+		<junit.version>4.11</junit.version>
+		<!-- Servlet -->
+		<servlet.version>2.5</servlet.version>
+		<jstl.version>1.2</jstl.version>
+	</properties>
+
+	<build>
+		<finalName>console-web</finalName>
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>${servlet.version}</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>jstl</artifactId>
+			<version>${jstl.version}</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>com.git.e4</groupId>
+			<artifactId>console-core</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+</project>
