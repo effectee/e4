@@ -1,4 +1,4 @@
-package com.github.e4.sv.dao.impl;
+package com.github.e4.sv.dao;
 
 import com.github.e4.da.hibernate.HibernateBaseDao;
 import com.github.e4.sv.entity.GlobalVariable;

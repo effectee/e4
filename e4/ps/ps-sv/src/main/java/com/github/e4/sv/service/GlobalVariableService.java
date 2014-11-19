@@ -1,10 +1,10 @@
-package com.github.e4.sv.service.impl;
+package com.github.e4.sv.service;
 
 import com.github.e4.ps.common.exception.CodeExistException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.github.e4.sv.dao.impl.GlobalVariableDao;
+import com.github.e4.sv.dao.GlobalVariableDao;
 import com.github.e4.sv.entity.GlobalVariable;
 
 @Service

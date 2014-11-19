@@ -1,11 +1,11 @@
-package com.github.e4.sv.service.impl;
+package com.github.e4.sv.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.github.e4.sv.dao.impl.EnumEntityDao;
+import com.github.e4.sv.dao.EnumEntityDao;
 import com.github.e4.sv.entity.EnumEntity;
 import com.github.e4.sv.entity.EnumItem;
 
