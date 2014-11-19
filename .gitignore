@@ -29,6 +29,7 @@ local.properties
 ## IDEA
 #################
 .idea/
+*.iml
 
 
 # Package Files #
