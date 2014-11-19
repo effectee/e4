@@ -1,6 +1,6 @@
 package com.github.e4.sv.service;
 
-import com.github.e4.ps.common.exception.CodeExistException;
+import com.github.e4.ps.common.exception.CodeAlreadyExistException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -18,7 +18,7 @@ public class GlobalVariableService{
 		if(existGv == null){
 			gvDao.create(gv);
 		}else{
-			throw new CodeExistException("EP01001", "创建全局变量失败。",GlobalVariable.class, gv.getCode());
+			throw new CodeAlreadyExistException("EP01001", "创建全局变量失败。",GlobalVariable.class, gv.getCode());
 		}
 
 	}
@@ -27,7 +27,7 @@ public class GlobalVariableService{
 		gvDao.delete(gv);
 	}
 
-	public void delete(String id) {
+	public void delete(Long id) {
 		gvDao.deleteById(id);
 	}
 
@@ -35,7 +35,7 @@ public class GlobalVariableService{
 		gvDao.update(gv);
 	}
 
-	public GlobalVariable find(String id) {
+	public GlobalVariable find(Long id) {
 		return gvDao.find(id);
 	}
 

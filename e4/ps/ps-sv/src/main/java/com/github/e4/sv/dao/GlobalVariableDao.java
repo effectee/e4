@@ -5,7 +5,7 @@ import com.github.e4.sv.entity.GlobalVariable;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class GlobalVariableDao extends HibernateBaseDao<GlobalVariable, String>{
+public class GlobalVariableDao extends HibernateBaseDao<GlobalVariable, Long>{
 
 
 }

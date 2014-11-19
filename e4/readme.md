@@ -39,6 +39,9 @@ mvn archetype:create -DgroupId=com.github.e4 -DartifactId=ps-sv
 ps-msg项目
 mvn archetype:create -DgroupId=com.github.e4 -DartifactId=ps-msg
 
+ps-account项目
+mvn archetype:create -DgroupId=com.github.e4 -DartifactId=ps-account
+
 
 ###测试工程###
 e4-test项目

@@ -19,7 +19,7 @@ public class EnumEntityService {
 		enumEntityDao.create(enumEntity);
 	}
 
-	public EnumEntity findById(String id){
+	public EnumEntity findById(Long id){
 		return enumEntityDao.find(id);
 	}
 	
@@ -31,7 +31,7 @@ public class EnumEntityService {
 		enumEntityDao.delete(enumEntity);	
 	}
 	
-	public void deleteById(String id){
+	public void deleteById(Long id){
 		EnumEntity e = findById(id);
 		delete(e);
 	}

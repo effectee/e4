@@ -8,8 +8,8 @@ import com.github.e4.core.exception.PlatformBaseException;
  *
  * Created by howard.hb on 2014/11/16.
  */
-public class CodeExistException extends PlatformBaseException{
-    public CodeExistException(String errorCode, String msg, Class entityClazz,Object codeValue) {
+public class CodeAlreadyExistException extends PlatformBaseException{
+    public CodeAlreadyExistException(String errorCode, String msg, Class entityClazz, Object codeValue) {
         super(errorCode, msg + "remark:编号已经存在。类：" + entityClazz.getName() + ",编号值：" + codeValue, null);
     }
 }

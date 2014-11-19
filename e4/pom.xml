@@ -17,7 +17,7 @@
 		<!-- junit -->
 		<junit.version>4.11</junit.version>
 		<test4j.version>2.0.6</test4j.version>
-		<jmock.version>2.6.1</jmock.version>
+		<jmock.version>2.6.0</jmock.version>
 
 		<!-- guava -->
 		<guava.version>18.0</guava.version>
@@ -246,6 +246,6 @@
 		<module>pf</module>
 		<module>pt</module>
 		<module>ps</module>
-    <module>e4-test</module>
+    	<module>e4-test</module>
   </modules>
 </project>

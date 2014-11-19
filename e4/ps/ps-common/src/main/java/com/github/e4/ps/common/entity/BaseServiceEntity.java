@@ -10,7 +10,7 @@ import java.util.Date;
 public class BaseServiceEntity {
 
     /** ID **/
-    private String id;
+    private Long id;
 
     /** 编号 **/
     private String code;
@@ -25,7 +25,7 @@ public class BaseServiceEntity {
      * 取得ID
      * @return ID
      */
-    public String getId() {
+    public Long getId() {
         return id;
     }
 
@@ -33,7 +33,7 @@ public class BaseServiceEntity {
      * 设置ID
      * @param id ID
      */
-    public void setId(String id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
